@@ -1,2 +1,2 @@
 # Lottier
-aint working
+Fully working animations working with using Lottie
